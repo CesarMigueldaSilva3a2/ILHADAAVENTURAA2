@@ -1,10 +1,10 @@
 body {
 
-    background-color: #1D4221;
+    background-color: #33FF57;
 
-    color: white;
+    color: #005700;
 
-    font-family: "Bai Jamjuree", sans-serif;
+    font-family:"Inria Sans", sans-serif;
 
     display: flex;
 
@@ -22,10 +22,44 @@ body {
 
 button {
 
-    background-color: #64A712;
+    background-color: #DAF7A6;
 
-    color: white;
+    color: #005700;
 
-    font-family: "Bai Jamjuree", sans-serif;
+    font-family: "Inria Sans", sans-serif;
+
+}
+
+
+
+.passo {
+
+    display: none;
+
+}
+
+
+
+.passo.ativo {
+
+    display:block;
+
+}
+
+
+
+main {
+
+    text-align: center;
+
+    max-width: 90%;
+
+}
+
+
+
+img {
+
+    max-width: 90%;
 
 }
